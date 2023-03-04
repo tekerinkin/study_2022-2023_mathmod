@@ -1,3 +1,13 @@
+<a name="1.4.2"></a>
+## [1.4.2](https://github.com/tekerinkin/study_2022-2023_mathmod/compare/1.4.1...1.4.2) (2023-03-04)
+
+### Docs
+
+* Add lab4/Code/Archive.zip
+* Update CHANGELOG
+
+
+
 <a name="1.4.1"></a>
 ## [1.4.1](https://github.com/tekerinkin/study_2022-2023_mathmod/compare/1.4.0...1.4.1) (2023-03-04)
 
