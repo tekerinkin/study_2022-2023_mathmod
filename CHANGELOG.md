@@ -1,3 +1,13 @@
+<a name="1.4.0"></a>
+## [1.4.0](https://github.com/tekerinkin/study_2022-2023_mathmod/compare/1.3.1...1.4.0) (2023-03-04)
+
+### Docs
+
+* Update CHANGELOG
+
+### Feat
+
+* finish report
 
 ## [1.0.5](https://github.com/AnnaZhiv/mathmod/compare/v3...v3.1) (2023-02-25)
 
