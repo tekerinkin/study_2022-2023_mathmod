@@ -9,13 +9,6 @@
 
 * finish report
 
-## [1.0.5](https://github.com/AnnaZhiv/mathmod/compare/v3...v3.1) (2023-02-25)
-
-
-### Features
-
-* **course:** add  element ([d756844](https://github.com/AnnaZhiv/mathmod/commit/d756844b23285e5e54b6f96c12cb4b223bdd9a76))
-
 
 ## [1.0.4](https://github.com/yamadharma/course-directory-student-template/compare/v1.0.3...v1.0.4) (2023-02-07)
 
