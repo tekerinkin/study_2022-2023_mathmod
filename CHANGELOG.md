@@ -1,3 +1,20 @@
+<a name="1.4.1"></a>
+## [1.4.1](https://github.com/tekerinkin/study_2022-2023_mathmod/compare/1.4.0...1.4.1) (2023-03-04)
+
+### Docs
+
+* Add modelica code samples lab4/Code
+* Add code samples to lab4/Code
+* add lab4/Code folder
+* Update CHANGELOG
+* Update CHANGELOG
+
+### Feat
+
+* Add presentation lab4
+* Finish report
+
+
 <a name="1.4.0"></a>
 ## [1.4.0](https://github.com/tekerinkin/study_2022-2023_mathmod/compare/1.3.1...1.4.0) (2023-03-04)
 
