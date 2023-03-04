@@ -1,4 +1,8 @@
 
+<a name="1.3.3"></a>
+## [1.3.3](https://github.com/tekerinkin/study_2022-2023_mathmod/compare/1.3.2...1.3.3) (2023-03-04)
+
+
 <a name="1.3.2"></a>
 ## [1.3.2](https://github.com/tekerinkin/study_2022-2023_mathmod/compare/1.3.1...1.3.2) (2023-03-04)
 
