@@ -1,3 +1,14 @@
+<a name="1.5.0"></a>
+## [1.5.0](https://github.com/tekerinkin/study_2022-2023_mathmod/compare/1.4.2...1.5.0) (2023-03-11)
+
+### Docs
+
+* Update CHANGELOG
+
+### Feat
+
+* Complete lab5/report
+
 <a name="1.4.2"></a>
 ## [1.4.2](https://github.com/tekerinkin/study_2022-2023_mathmod/compare/1.4.1...1.4.2) (2023-03-04)
 
