@@ -1,3 +1,10 @@
+<a name="1.6.1"></a>
+## [1.6.1](https://github.com/tekerinkin/study_2022-2023_mathmod/compare/1.6.0...1.6.1) (2023-03-18)
+
+### Docs
+
+* Add code snippets to Lab6
+
 <a name="1.6.0"></a>
 ## [1.6.0](https://github.com/tekerinkin/study_2022-2023_mathmod/compare/1.5.3...1.6.0) (2023-03-18)
 
