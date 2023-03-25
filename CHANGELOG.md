@@ -1,3 +1,10 @@
+<a name="1.7.2"></a>
+## [1.7.2](https://github.com/tekerinkin/study_2022-2023_mathmod/compare/1.7.1...1.7.2) (2023-03-25)
+
+### Docs
+
+* Add Archive
+
 <a name="1.7.1"></a>
 ## [1.7.1](https://github.com/tekerinkin/study_2022-2023_mathmod/compare/1.7.0...1.7.1) (2023-03-25)
 
