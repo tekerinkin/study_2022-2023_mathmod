@@ -1,3 +1,14 @@
+<a name="1.7.0"></a>
+## [1.7.0](https://github.com/tekerinkin/study_2022-2023_mathmod/compare/1.6.1...1.7.0) (2023-03-25)
+
+### Docs
+
+* Update CHANGELOG
+
+### Feat
+
+* Add report for Lab7 & code samples
+
 <a name="1.6.1"></a>
 ## [1.6.1](https://github.com/tekerinkin/study_2022-2023_mathmod/compare/1.6.0...1.6.1) (2023-03-18)
 
