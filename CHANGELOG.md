@@ -1,3 +1,14 @@
+<a name="1.8.0"></a>
+## [1.8.0](https://github.com/tekerinkin/study_2022-2023_mathmod/compare/1.7.2...1.8.0) (2023-03-31)
+
+### Docs
+
+* Update CHANGELOG
+
+### Feat
+
+* Add report for Lab8 & Code samples for Lab8
+
 <a name="1.7.2"></a>
 ## [1.7.2](https://github.com/tekerinkin/study_2022-2023_mathmod/compare/1.7.1...1.7.2) (2023-03-25)
 
